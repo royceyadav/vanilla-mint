@@ -1,0 +1,460 @@
+/* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
+Instead edit gulp/templates/sprite.css */
+
+  .icon {
+    background-image: url('/assets/images/sprites/sprite-71cff0e3.svg');
+  }
+
+  .icon--clear-view-escapes {
+    width: 142.4px;
+    height: 59.53px;
+    background-position: 62.189054726368155% 0;
+  }
+
+
+  .icon--comment {
+    width: 64px;
+    height: 64px;
+    background-position: 99.85% 34.68834688346883%;
+  }
+
+
+  .icon--facebook {
+    width: 21.23px;
+    height: 42.01px;
+    background-position: 27.729972672041917% 81.33200337604542%;
+  }
+
+
+  .icon--fire {
+    width: 56px;
+    height: 64px;
+    background-position: 83.92156862745098% 58.265582655826556%;
+  }
+
+
+  .icon--globe {
+    width: 64px;
+    height: 64px;
+    background-position: 99.85% 17.344173441734416%;
+  }
+
+
+  .icon--insta-girl--arm_L {
+    width: 48px;
+    height: 75px;
+    background-position: 42.54807692307692% 63.96648044692738%;
+  }
+
+
+  .icon--insta-girl--arm_R {
+    width: 71px;
+    height: 52px;
+    background-position: 0 83.46456692913385%;
+  }
+
+
+  .icon--insta-girl--body {
+    width: 52px;
+    height: 71px;
+    background-position: 83.10679611650485% 20.441988950276244%;
+  }
+
+
+  .icon--insta-girl--foot_L {
+    width: 29px;
+    height: 16px;
+    background-position: 27.35632183908046% 40.52757793764988%;
+  }
+
+
+  .icon--insta-girl--foot_R {
+    width: 29px;
+    height: 16px;
+    background-position: 10.574712643678161% 42.20623501199041%;
+  }
+
+
+  .icon--insta-girl--hair {
+    width: 40px;
+    height: 49px;
+    background-position: 70.75471698113208% 59.635416666666664%;
+  }
+
+
+  .icon--insta-girl--head {
+    width: 39px;
+    height: 54px;
+    background-position: 8% 97.62532981530343%;
+  }
+
+
+  .icon--insta-girl--leg_R {
+    width: 39px;
+    height: 176px;
+    background-position: 10.823529411764707% 0;
+  }
+
+
+  .icon--insta-girl--lower_leg_L {
+    width: 22px;
+    height: 90px;
+    background-position: 69.00452488687783% 17.355685131195337%;
+  }
+
+
+  .icon--insta-girl--phone {
+    width: 16px;
+    height: 31px;
+    background-position: 61.830357142857146% 92.03980099502488%;
+  }
+
+
+  .icon--insta-girl--sleeve_L {
+    width: 20px;
+    height: 37px;
+    background-position: 21.396396396396398% 48.484848484848484%;
+  }
+
+
+  .icon--insta-girl--sleeve_R {
+    width: 35px;
+    height: 21px;
+    background-position: 71.0955710955711% 36.29368932038835%;
+  }
+
+
+  .icon--insta-girl--upper_leg_L {
+    width: 43px;
+    height: 118px;
+    background-position: 62.23277909738717% 18.8984126984127%;
+  }
+
+
+  .icon--instagram {
+    width: 42.01px;
+    height: 42.01px;
+    background-position: 34.12640109955212% 81.33200337604542%;
+  }
+
+
+  .icon--mail {
+    width: 64px;
+    height: 48px;
+    background-position: 99.85% 66.49350649350649%;
+  }
+
+
+  .icon--rain {
+    width: 64px;
+    height: 64px;
+    background-position: 99.85% 0;
+  }
+
+
+  .icon--selfie--ankle-l {
+    width: 35px;
+    height: 29px;
+    background-position: 37.52913752913753% 47.524752475247524%;
+  }
+
+
+  .icon--selfie--ankle-r {
+    width: 14px;
+    height: 34px;
+    background-position: 72.66666666666667% 14.919799498746867%;
+  }
+
+
+  .icon--selfie--arm-l {
+    width: 33px;
+    height: 49px;
+    background-position: 16.937354988399072% 96.35416666666667%;
+  }
+
+
+  .icon--selfie--arm-r {
+    width: 31px;
+    height: 89px;
+    background-position: 0 66.56976744186046%;
+  }
+
+
+  .icon--selfie--face {
+    width: 35px;
+    height: 39px;
+    background-position: 60.31934731934732% 80.71065989847716%;
+  }
+
+
+  .icon--selfie--foot-l {
+    width: 25px;
+    height: 33px;
+    background-position: 83.7744874715262% 79.5%;
+  }
+
+
+  .icon--selfie--foot-r {
+    width: 23px;
+    height: 30px;
+    background-position: 70.06802721088435% 91.81141439205955%;
+  }
+
+
+  .icon--selfie--forearm-l {
+    width: 34px;
+    height: 21px;
+    background-position: 19.767441860465116% 41.019417475728154%;
+  }
+
+
+  .icon--selfie--hair {
+    width: 38px;
+    height: 39px;
+    background-position: 77.41079812206573% 80.71065989847716%;
+  }
+
+
+  .icon--selfie--hand-l {
+    width: 29px;
+    height: 19px;
+    background-position: 60% 46.3768115942029%;
+  }
+
+
+  .icon--selfie--hand-r {
+    width: 28px;
+    height: 21px;
+    background-position: 51.60550458715596% 68.20388349514563%;
+  }
+
+
+  .icon--selfie--leg-l {
+    width: 75px;
+    height: 52px;
+    background-position: 57.840616966580974% 60.10498687664042%;
+  }
+
+
+  .icon--selfie--leg-r {
+    width: 62px;
+    height: 120px;
+    background-position: 49.75124378109453% 19.01916932907348%;
+  }
+
+
+  .icon--selfie--neck {
+    width: 23px;
+    height: 37px;
+    background-position: 26.077097505668934% 48.484848484848484%;
+  }
+
+
+  .icon--selfie--phone {
+    width: 16px;
+    height: 31px;
+    background-position: 58.25892857142857% 92.03980099502488%;
+  }
+
+
+  .icon--selfie--pony {
+    width: 30px;
+    height: 44px;
+    background-position: 41.244239631336406% 95.11568123393316%;
+  }
+
+
+  .icon--selfie--sole-l {
+    width: 25px;
+    height: 27px;
+    background-position: 75.62642369020502% 91.13300492610837%;
+  }
+
+
+  .icon--selfie--torso {
+    width: 57px;
+    height: 74px;
+    background-position: 84.12776412776412% 0;
+  }
+
+
+  .icon--star {
+    width: 64px;
+    height: 64px;
+    background-position: 99.85% 52.03252032520325%;
+  }
+
+
+  .icon--steve--arm-l {
+    width: 34px;
+    height: 63px;
+    background-position: 0 100%;
+  }
+
+
+  .icon--steve--arm-r1 {
+    width: 34px;
+    height: 70px;
+    background-position: 79.62790697674419% 39.94490358126722%;
+  }
+
+
+  .icon--steve--arm-r2 {
+    width: 36px;
+    height: 77px;
+    background-position: 32.94392523364486% 64.32584269662921%;
+  }
+
+
+  .icon--steve--face {
+    width: 33px;
+    height: 47px;
+    background-position: 24.593967517401392% 95.85492227979275%;
+  }
+
+
+  .icon--steve--foot-l {
+    width: 42px;
+    height: 23px;
+    background-position: 35.308056872037916% 41.21951219512195%;
+  }
+
+
+  .icon--steve--foot-r {
+    width: 35px;
+    height: 24px;
+    background-position: 45.687645687645684% 46.9437652811736%;
+  }
+
+
+  .icon--steve--forearm-l {
+    width: 57px;
+    height: 36px;
+    background-position: 84.12776412776412% 70.27707808564232%;
+  }
+
+
+  .icon--steve--hair {
+    width: 40px;
+    height: 46px;
+    background-position: 32.783018867924525% 95.60723514211887%;
+  }
+
+
+  .icon--steve--hand-l {
+    width: 30px;
+    height: 22px;
+    background-position: 53.225806451612904% 46.715328467153284%;
+  }
+
+
+  .icon--steve--legs {
+    width: 64px;
+    height: 169px;
+    background-position: 21.25% 0;
+  }
+
+
+  .icon--steve--torso {
+    width: 58px;
+    height: 84px;
+    background-position: 7.635467980295567% 65.61604584527221%;
+  }
+
+
+  .icon--tina--arm-r {
+    width: 95px;
+    height: 37px;
+    background-position: 0 48.484848484848484%;
+  }
+
+
+  .icon--tina--face {
+    width: 36px;
+    height: 39px;
+    background-position: 68.63785046728972% 80.71065989847716%;
+  }
+
+
+  .icon--tina--hair {
+    width: 38px;
+    height: 39px;
+    background-position: 51.82394366197183% 80.71065989847716%;
+  }
+
+
+  .icon--tina--leg-l {
+    width: 51px;
+    height: 169px;
+    background-position: 36.077481840193705% 0;
+  }
+
+
+  .icon--tina--leg-r {
+    width: 46px;
+    height: 192px;
+    background-position: 0 0;
+  }
+
+
+  .icon--tina--neck {
+    width: 23px;
+    height: 37px;
+    background-position: 31.292517006802722% 48.484848484848484%;
+  }
+
+
+  .icon--tina--phone {
+    width: 16px;
+    height: 31px;
+    background-position: 65.40178571428571% 92.03980099502488%;
+  }
+
+
+  .icon--tina--pony {
+    width: 17px;
+    height: 43px;
+    background-position: 46.75615212527964% 94.87179487179488%;
+  }
+
+
+  .icon--tina--sleeve-l {
+    width: 17px;
+    height: 43px;
+    background-position: 84.20581655480984% 37.17948717948718%;
+  }
+
+
+  .icon--tina--sleeve-r {
+    width: 35px;
+    height: 35px;
+    background-position: 52.68065268065268% 92.96482412060301%;
+  }
+
+
+  .icon--tina--torso {
+    width: 52px;
+    height: 78px;
+    background-position: 21.601941747572816% 64.50704225352112%;
+  }
+
+
+  .icon--twitter {
+    width: 51.78px;
+    height: 42.06px;
+    background-position: 17.22381252729125% 81.34240548421752%;
+  }
+
+
+  .icon--wifi {
+    width: 60px;
+    height: 64px;
+    background-position: 98.86138613861387% 82.38482384823848%;
+  }
+
+
+  .icon--youtube {
+    width: 34.75px;
+    height: 42px;
+    background-position: 43.33605125218404% 81.32992327365729%;
+  }
